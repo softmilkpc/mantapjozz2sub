@@ -23,7 +23,7 @@
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/madloyer/mantapjozz2sub
+git clone https://github.com/softmilkpc/mantapjozz2sub
 cd File-Sharing-Man
 pip3 install -r requirements.txt
 cp sample_config.env config.env
