@@ -1,12 +1,12 @@
 {
-  "name": "File Sharing Man",
+  "name": "Mantapjozz File Sharing",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/madloyer/mantapjozz2sub",
+  "repository": "https://github.com/softmilkpc/mantapjozz2sub",
   "logo": "https://telegra.ph/file/fd363f1ee93f4fb3b9879.jpg",
   "env": {
     "TG_BOT_TOKEN": {
