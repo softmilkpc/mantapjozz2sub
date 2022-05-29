@@ -91,7 +91,7 @@ async def start_command(client: Bot, message: Message):
                     filename=msg.document.file_name,
                 )
             else:
-                caption ="tes" if not msg.caption else msg.caption.html
+                caption ="" if not msg.caption else msg.caption.html
 
             reply_markup = msg.reply_markup if DISABLE_CHANNEL_BUTTON else None
             try:
