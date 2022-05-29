@@ -91,7 +91,7 @@ async def start_command(client: Bot, message: Message):
                     filename=msg.document.file_name,
                 )
             else:
-                caption ='<a href="https://t.me/PPVarea/5">PPV</a> Area\n\n===========\nJoin Channel :\n<a href="https://t.me/mantapvids">Mantapjozz Channel</a>\n<a href="https://t.me/mantapfilestorage">Mantap File Storage</a>\n===========\n' if not msg.caption else msg.caption.html
+                caption ="tes" if not msg.caption else msg.caption.html
 
             reply_markup = msg.reply_markup if DISABLE_CHANNEL_BUTTON else None
             try:
