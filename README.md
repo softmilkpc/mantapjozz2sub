@@ -88,6 +88,7 @@ bash start
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
+- Thanks To [mrismanaziz](https://t.me/mrismanaziz)
 - Our Support Group Members
 
 ### Licence
