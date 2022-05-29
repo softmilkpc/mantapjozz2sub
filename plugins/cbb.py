@@ -13,7 +13,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text=f"<b>Join Group dan Channel Mantapjozz:\n============\n1. @Mantapvids\n2. @mantapjozzarea\n4. @mantapfilestorage\n============\nJika ingin bot seperti ini silahkan Deploy pada Link dibawah secara gratis\nSource Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man</a>\n============\nOwner Repo: @mrismanaziz\n</b>\n",
+            text=f"<b>Join Group dan Channel Mantapjozz:\n============\n1. @Mantapvids\n2. @mantapjozzarea\n4. @mantapfilestorage\n============\nJika ingin bot seperti ini silahkan Deploy pada Link dibawah secara gratis\nSource Code: <a href='https://github.com/softmilkpc/Mantapjozz2Sub'>Mantapjozz File Sharing</a>\n============\nThanks Too: @mrismanaziz\n</b>\n",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Close", callback_data="close")]]
